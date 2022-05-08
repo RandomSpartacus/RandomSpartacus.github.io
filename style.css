@@ -1,0 +1,21 @@
+body  {
+    background-image: linear-gradient(to right, #03361f, #9de7ca);
+}
+
+#title {
+    text-align: center;
+    color: black;
+}
+
+h1 {
+    font-size: 5ch;
+}
+
+.photos {
+    display: flex;
+}
+
+img {
+    width: 33%;
+    height: 100vh;
+}
